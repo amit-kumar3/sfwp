@@ -1,5 +1,5 @@
 <?php
-//AK2
+//AK3
 global $wpcom_api_key, $akismet_api_host, $akismet_api_port;
 
 $wpcom_api_key    = defined( 'WPCOM_API_KEY' ) ? constant( 'WPCOM_API_KEY' ) : '';
